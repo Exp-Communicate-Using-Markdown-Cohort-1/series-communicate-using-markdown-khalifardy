@@ -1,3 +1,3 @@
-# Pembukaan '<h1>'
-## Header h2 '<h2>'
-###### header h6 '<h6>'
+# Pembukaan header h1
+## Header h2 
+###### header h6 
